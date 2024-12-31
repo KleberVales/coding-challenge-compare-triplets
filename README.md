@@ -14,3 +14,5 @@ For each category i:
 - If a[i] > b[i], Alice earns 1 point.
 - If a[i] < b[i], Bob earns 1 point.
 - If a[i] == b[i], no points are awarded.
+
+The goal is to calculate the total points for Alice and Bob and return them as an array [Alice's points, Bob's points].
