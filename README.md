@@ -26,3 +26,6 @@ The goal is to calculate the total points for Alice and Bob and return them as a
   * The second element is Bob's total points.
 
 ## Input Format:
+
+1. Three integers representing Alice's triplet.
+2. Three integers representing Bob's triplet.
