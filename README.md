@@ -24,3 +24,5 @@ The goal is to calculate the total points for Alice and Bob and return them as a
 - Returns: An integer array of size 2, where:
   * The first element is Alice's total points.
   * The second element is Bob's total points.
+
+## Input Format:
