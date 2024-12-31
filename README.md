@@ -29,3 +29,17 @@ The goal is to calculate the total points for Alice and Bob and return them as a
 
 1. Three integers representing Alice's triplet.
 2. Three integers representing Bob's triplet.
+
+## Example:
+
+Input:
+``` css
+a = [5, 6, 7]
+b = [3, 6, 10]
+
+```
+Output:
+```
+[1, 1]
+
+```
