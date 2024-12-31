@@ -16,3 +16,9 @@ For each category i:
 - If a[i] == b[i], no points are awarded.
 
 The goal is to calculate the total points for Alice and Bob and return them as an array [Alice's points, Bob's points].
+
+## Function Details:
+
+- Function Name: compareTriplets
+- Parameters: Two integer arrays of size 3, a and b.
+- Returns: An integer array of size 2, where:
