@@ -22,3 +22,5 @@ The goal is to calculate the total points for Alice and Bob and return them as a
 - Function Name: compareTriplets
 - Parameters: Two integer arrays of size 3, a and b.
 - Returns: An integer array of size 2, where:
+  * The first element is Alice's total points.
+  * The second element is Bob's total points.
